@@ -1,7 +1,7 @@
 Summary:	A Python wrapper for OCR engines (Tesseract, Cuneiform, etc)
 Name:		python-pyocr
 Version:	0.8.5
-Release:	1
+Release:	2
 License:	GPL-3.0-or-later
 Group:		Development/Python
 Source0:	https://pipy.org/project/packages/source/p/pyocr/pyocr-%{version}.tar.gz
